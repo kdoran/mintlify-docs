@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Billiam Docs",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#000000",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#000000"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Tech Stack",
         "groups": [
           {
             "group": "API Documentation",
@@ -58,26 +58,16 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Hey Billiam",
+          "href": "https://heybilliam.com",
           "icon": "newspaper"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/blogo.svg",
+    "dark": "/logo/blogo-dark.svg"
   },
   "navbar": {
     "links": [
