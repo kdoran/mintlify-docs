@@ -17,25 +17,27 @@
             "group": "High Level Planning",
             "pages": [
               "introduction",
-              "quickstart",
-              "development"
+              "high-level/positioning",
+              "high-level/tech-roadmap"
             ]
           },
           {
             "group": "Essentials",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/components",
+              "essentials/ambition",
+              "essentials/prd",
+              "essentials/communication",
+              "essentials/estimates",
+              "essentials/feedback",
+              "essentials/iteration"
             ]
           },
           {
             "group": "Etcetera",
             "pages": [
-              "etc/thesis"
+              "etc/thesis",
+              "etc/tech-plan"
             ]
           }
         ]
@@ -44,18 +46,18 @@
         "tab": "Tech Stack",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Tech Stack",
             "pages": [
-              "api-reference/introduction"
+              "tech-stack/introduction"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "tech-stack/endpoint/get",
+              "tech-stack/endpoint/create",
+              "tech-stack/endpoint/delete",
+              "tech-stack/endpoint/webhook"
             ]
           }
         ]
