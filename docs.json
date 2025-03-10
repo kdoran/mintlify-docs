@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "High Level Planning",
             "pages": [
               "introduction",
               "quickstart",
@@ -30,6 +30,12 @@
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
+            ]
+          },
+          {
+            "group": "Etcetera",
+            "pages": [
+              "etc/thesis"
             ]
           }
         ]
